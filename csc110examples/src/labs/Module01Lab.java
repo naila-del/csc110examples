@@ -12,8 +12,21 @@ public class Module01Lab {
 		System.out.println();
 		
 		// Print "Hello, CSC110", ending with a newline
+		System.out.print("Hello, CSC110");
+		System.out.println();
 
 		// Print "Effort creates opportunity" inside a box on 3 lines
+		System.out.print("-------------");
+		
+		System.out.print("Effort");
+
+		System.out.print("creates");
+
+		System.out.print("opportunity");
+
+		System.out.print("-------------");
+
+		
 
     }
     
